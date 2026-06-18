@@ -217,7 +217,7 @@ p {
 
     .header {
         margin-bottom: 30px;
-        margin-top: 20px !important;
+        margin-top: 0px !important;
     }
 
     .extra-pb {
@@ -244,7 +244,7 @@ p {
 
     .header {
         margin-bottom: 30px;
-        margin-top: 20px !important;
+        margin-top: 0px !important;
     }
 }
 
